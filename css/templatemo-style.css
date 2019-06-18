@@ -495,7 +495,7 @@ video::-webkit-media-controls {
 
 .fivth-content {
   padding: 30px;
-  text-align: left;
+  text-align: center;
 }
 
 .fivth-content .left-info em {
@@ -509,6 +509,7 @@ video::-webkit-media-controls {
 .fivth-content .left-info ul {
   padding: 0;
   margin: 0;
+  text-align: center;
 }
 
 .fivth-content .left-info i {
